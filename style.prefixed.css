@@ -1,0 +1,22 @@
+h1 {
+color: red;
+font-family: "Verdana", serif;
+margin-top: 10px;
+margin-bottom: 10px;
+
+
+}
+
+body {
+
+font-size: 16px;
+font-family: 'Arial', sans-serif;
+line-height: 1.9;
+background-color: yellow;
+
+}
+
+p {
+
+margin: 40px auto;
+}

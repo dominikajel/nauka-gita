@@ -1,0 +1,26 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files \"css/*.css\" \"*.html\" \"js/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominikajel/nauka-gita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominikajel/nauka-gita/issues"
+  },
+  "homepage": "https://github.com/dominikajel/nauka-gita#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "html-validate": "^3.5.0"
+  },
+  "description": ""
+}
